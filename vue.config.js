@@ -1,3 +1,3 @@
-modul.exports ={
-  lintOnSave:'false'
+modul.exports={
+  lintOnSave: 'warning'
 }
